@@ -11,7 +11,7 @@
   ### Create virtual env:
  	      "python -m venv "env_name"
  	       cd env_name\script
-     	   activate
+     	  activate
  
   ### install requirement.txt: 
         "pip install -r requirements.txt"
