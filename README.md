@@ -16,7 +16,7 @@ Google Map  Scarping Project
  	> cd env_name\script
  	> activate
  
- 2. Install requirement.txt:
+ 2. Install requirements.txt file:
   > "pip install -r requirements.txt"
 
 
