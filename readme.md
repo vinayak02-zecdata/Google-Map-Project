@@ -8,12 +8,13 @@
 
 
 # Installation for required dependencies to run script:
- 1. Create virtual env:
+  ### Create virtual env:
  	      "python -m venv "env_name"
  	       cd env_name\script
      	   activate
  
- 2. install requirement.txt by executing "pip install -r requirements.txt"
+  ### install requirement.txt: 
+        "pip install -r requirements.txt"
 
 
 # Running script
