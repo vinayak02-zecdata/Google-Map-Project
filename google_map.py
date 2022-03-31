@@ -109,7 +109,7 @@ def get_address_dict(address, key):
         Creating new csv file for all the extracted data from google map.
     """
 
-    final_map_df = pd.DataFrame(final_data,columns=["GM_country","GM_city","GM_zipcode","Map_search"])
+    final_map_df = pd.DataFrame(final_data,columns=["GM_country","GM_city","GM_state","GM_zipcode","Map_search"])
     final_map_df.to_csv("Google_map.csv", index = False)
     
     return final_data
